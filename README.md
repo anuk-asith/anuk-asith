@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inuka Liyanarachchi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 - 📫 How to reach me **inuka2006@icloud.com**
 
